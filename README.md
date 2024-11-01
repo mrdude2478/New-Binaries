@@ -1,6 +1,6 @@
-Hac2l [https://github.com/Atmosphere-NX/hac2l]  
-Libhac [https://github.com/Thealexbarney/LibHac]  
-Hactool [https://github.com/SciresM/hactool]   
+[Hac2l](https://github.com/Atmosphere-NX/hac2l)  
+[Libhac](https://github.com/Thealexbarney/LibHac)  
+[Hactool](https://github.com/SciresM/hactool)   
 
 Info:  
 Hac21 has been built for windows64 bit from source, this is a standalone static build compiled with mingw64, it's been compressed with upx packer, for smaller builds you could compile yourself on Linux using a cross compiler.  
